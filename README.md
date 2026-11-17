@@ -6,11 +6,14 @@
 * 💬 Ask me about online payments, machine learning or mathematics
 
 ## 💼 Experience
-- **Arsys Internet S.L.U.** · Software Developer, Online Payment Methods (2023 – present)
-  - Designed and implemented two new payment methods, from integration to production release
-  - Diagnosed and fixed bugs in payment flows, reducing incidents and improving the user experience
-  - Improved the reliability of payment processing and kept existing payment methods stable and up to date
-  - Ongoing maintenance and evolution of payment integrations in production
+- **Arsys Internet S.L.U.** · Software Engineer, Online Payment Methods (June 2024 – present)
+  - Designed and implemented two new payment methods end to end, from integration to production release
+  - Diagnosed and fixed issues in live payment flows, reducing incidents and improving the user experience
+  - Improved the reliability of payment processing
+  - Maintain and evolve existing payment methods in production, keeping them stable and up to date
+- **Arsys Internet S.L.U.** · Software Developer (Internship), Cloud Services (September 2023 – May 2024)
+  - Took part in the design and development of cloud services, applying software design and engineering practices
+  - Completed my Bachelor's thesis in Computer Engineering during the internship
 
 ## 🎓 Education
 - **MSc in Data Science and Machine Learning**, University of La Rioja (2024 – 2026)
@@ -47,3 +50,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://es.linkedin.com/in/sergio-ayala-sig%C3%BCenza-a81408308)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.ayala.20@gmail.com)
 [![Website](https://img.shields.io/badge/Website-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://seayala.github.io)
+[![Download CV](https://img.shields.io/badge/Download%20CV-6E40C9?style=for-the-badge)](https://seayala.github.io/Sergio_Ayala_CV.pdf)
