@@ -33,6 +33,11 @@
   <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
 </p>
 
+**AI tools**
+<p>
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /></a>
+</p>
+
 **Also worked with:** Java · JavaScript · C · C++ · C#
 
 ## 📫 How to reach me
