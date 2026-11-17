@@ -17,6 +17,9 @@
 - **BSc in Computer Engineering**, University of La Rioja (2019 – 2024) · [📄 Bachelor's thesis](https://investigacion.unirioja.es/documentos/677ce83d6640ab12237120c2)
 - **BSc in Mathematics**, University of La Rioja (2018 – 2023) · [📄 Bachelor's thesis](https://investigacion.unirioja.es/documentos/655c9893da93c5320dbe71a7)
 
+## 🚀 Projects
+- **[Ahorcado2](https://github.com/seayala/Ahorcado2)**: online hangman game (university project)
+
 ## 👨🏻‍💻 Languages and tools
 
 **Day to day**
@@ -35,4 +38,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://es.linkedin.com/in/sergio-ayala-sig%C3%BCenza-a81408308)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.ayala.20@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/seayala)
-[![Website](https://img.shields.io/badge/Website-seayala.github.io-58A6FF?style=for-the-badge)](https://seayala.github.io)
+[![Website](https://img.shields.io/badge/Website-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://seayala.github.io)
