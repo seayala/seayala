@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 - **[Ahorcado2](https://github.com/seayala/Ahorcado2)**: online hangman game (university project)
-- **[Hugging Face](https://huggingface.co/seayala)**: machine learning work from my university studies
+- **[Hugging Face](https://huggingface.co/seayala)**: machine learning work from my MSc in Data Science and Machine Learning
 
 ## 👨🏻‍💻 Languages and tools
 
