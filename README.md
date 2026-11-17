@@ -50,4 +50,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://es.linkedin.com/in/sergio-ayala-sig%C3%BCenza-a81408308)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.ayala.20@gmail.com)
 [![Website](https://img.shields.io/badge/Website-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white)](https://seayala.github.io)
-[![Download CV](https://img.shields.io/badge/Download%20CV-6E40C9?style=for-the-badge)](https://seayala.github.io/Sergio_Ayala_CV.pdf)
