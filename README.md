@@ -18,8 +18,11 @@
 - **BSc in Mathematics**, University of La Rioja (2018 – 2023) · [📄 Bachelor's thesis](https://investigacion.unirioja.es/documentos/655c9893da93c5320dbe71a7)
 
 ## 🚀 Projects
-- 🎮 **[Ahorcado2](https://github.com/seayala/Ahorcado2)**: online hangman game (university project)
-- 🤗 **[Hugging Face](https://huggingface.co/seayala)**: machine learning work from my MSc in Data Science and Machine Learning
+
+| Project | What it is |
+|---------|------------|
+| [![Ahorcado2](https://img.shields.io/badge/Ahorcado2-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seayala/Ahorcado2) | Online hangman game · University project |
+| [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/seayala) | Machine learning work from my MSc in Data Science and Machine Learning |
 
 ## 👨🏻‍💻 Languages and tools
 
