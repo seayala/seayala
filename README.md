@@ -26,7 +26,7 @@
 
 **Data science and ML**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow" />
 </p>
 
 **Also worked with:** Java · JavaScript · C · C++ · C#
@@ -35,3 +35,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://es.linkedin.com/in/sergio-ayala-sig%C3%BCenza-a81408308)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.ayala.20@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/seayala)
+[![Website](https://img.shields.io/badge/Website-seayala.github.io-58A6FF?style=for-the-badge)](https://seayala.github.io)
