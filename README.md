@@ -26,7 +26,7 @@
 |---------|------------|
 | [![Ahorcado2](https://img.shields.io/badge/Ahorcado2-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seayala/Ahorcado2) | Online hangman game · University project |
 | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/seayala) | Machine learning work from my MSc in Data Science and Machine Learning |
-| [![RotomPedia](https://img.shields.io/badge/RotomPedia-F97316?style=for-the-badge&logo=pokemon&logoColor=white)](https://seayala.github.io/rotompedia/) | Pokémon Champions VGC meta analyzer: usage stats, tournament teams, build & lead recommendations |
+| [![RotomPedia](https://img.shields.io/badge/RotomPedia-F97316?style=for-the-badge&logo=nintendoswitch&logoColor=white)](https://seayala.github.io/rotompedia/) | Pokémon Champions VGC meta analyzer: usage stats, tournament teams, build & lead recommendations |
 
 ## 👨🏻‍💻 Languages and tools
 
